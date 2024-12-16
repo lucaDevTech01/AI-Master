@@ -1,0 +1,20 @@
+{
+  "name": "ai_master",
+  "version": "1.0.0",
+  "description": "A modern website dedicated to spreading culture and raising awareness about artificial intelligence",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./Tailwind/tailwind_directives.css -o ./Tailwind/AI_Master_tailwind.css --watch",
+    "build": "npx tailwindcss -i ./Tailwind/tailwind_directives.css -o ./Tailwind/AI_Master_tailwind.css --minify"
+  },
+  "author": "lucaDevTech01 <luca.battaglia-dev@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.4.16",
+    "postcss": "^8.4.49",
+    "autoprefixer": "^10.4.20"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {}
+}
