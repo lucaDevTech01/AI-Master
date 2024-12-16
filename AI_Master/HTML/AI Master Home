@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <title>AI Master: Home</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Scopri il mondo dell'AI e accogli l'innovazione tecnologica che ci travolge!">
+    <meta name="author" content="AI Master">
+    <meta name="robots" content="index, follow">
+    <meta property="og:title" content="AI Master: Home">
+    <meta property="og:description" content="Scopri il mondo dell'AI e accogli l'innovazione tecnologica che ci travolge!">
+    <meta property="og:url" content="file:///C:/Users/batta/.vscode/Sviluppo_web/AI_Master/HTML/AI%20Master%20Home.html">
+    <meta property="og:image" content="C:\Users\batta\.vscode\Sviluppo_web\AI_Master\Images\Artificial-intelligence-world.jpg">
+    <meta property="og:image:alt" content="Intelligenza artificiale e futuro">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="AI Master">
+    <meta property="og:locale" content="it_IT">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="AI Master: Home">
+    <meta name="twitter:description" content="Scopri il mondo dell'AI e accogli l'innovazione tecnologica che ci travolge!">
+    <meta name="twitter:image" content="C:\Users\batta\.vscode\Sviluppo_web\AI_Master\Images\Artificial-intelligence-world.jpg">
+    <meta name="twitter:image:alt" content="Intelligenza artificiale e futuro">
+    <meta name="twitter:site" content="@AI_Master">
+    <meta name="twitter:creator" content="@AI_Master">
+    <link rel="canonical" href="file:///C:/Users/batta/.vscode/Sviluppo_web/AI_Master/HTML/AI%20Master%20Home.html">
+    <link rel="icon" href="../Images/AI-Master-logo.png" type="image/png">
+    <link rel="dns-prefetch" href="https://fonts.bunny.net/"> 
+    <link rel="preconnect" href="https://fonts.bunny.net" crossorigin="anonymous">
+    <link rel="preload" href="https://fonts.bunny.net/css?family=orbitron:400" as="style" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://fonts.bunny.net/css?family=orbitron:400" crossorigin="anonymous">
+    <link rel="dns-prefetch" href="https://www.jsdelivr.com/"> 
+    <link rel="preconnect" href="https://www.jsdelivr.com/" crossorigin="anonymous">
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/@fontsource/syncopate@5.1.0/index.min.css" as="style" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource/syncopate@5.1.0/index.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="../Tailwind/AI_Master_tailwind.css" type="text/css">
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "AI Master: Home",
+        "description": "Scopri il mondo dell'AI e accogli l'innovazione tecnologica che ci travolge!",
+        "image": "C:\Users\batta\.vscode\Sviluppo_web\AI_Master\Images\Artificial-intelligence-world.jpg",
+        "author": {
+          "@type": "Person",
+          "name": "AI Master"
+        },
+        "publisher": {
+          "@type": "Person",
+          "name": "AI Master",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "C:\Users\batta\.vscode\Sviluppo_web\AI_Master\Images\AI-Master-logo.png"
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "file:///C:/Users/batta/.vscode/Sviluppo_web/AI_Master/HTML/AI%20Master%20Home.html"
+        }
+      }
+      </script>      
+</head>
+<body>
+    <header>
+         
+    </header>
+    <main>
+
+    </main>
+    <footer>
+        
+    </footer>
+</body>
+</html>
