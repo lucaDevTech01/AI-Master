@@ -128,3 +128,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Main tailwind file generated
+Tailwind/AI_Master_tailwind.css
